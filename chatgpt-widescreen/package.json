@@ -38,7 +38,7 @@
     "@eslint/markdown": "^6.2.2",
     "@html-eslint/eslint-plugin": "^0.34.0",
     "@html-eslint/parser": "^0.34.0",
-    "@stylistic/eslint-plugin-js": "^3.0.1",
+    "@stylistic/eslint-plugin-js": "^3.1.0",
     "eslint": "^9.20.0",
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-regexp": "^2.7.0",
